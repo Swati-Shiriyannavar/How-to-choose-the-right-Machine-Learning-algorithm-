@@ -1,0 +1,11 @@
+Before you start thinking about the different algorithms, you need to familiarize yourself with your data. 
+It is usually recommended to gather a good amount of data to get reliable predictions. 
+A simple way to do that is to analyze the data and try to find trends within it, and, most importantly of all, its size. 
+
+ 
+
+Small Dataset: if the dataset is smaller or contains fewer observations then implement algorithms with High Bias/ Low Variance.  
+For example, Linear regression, Naïve Bayes, or Linear SVM. 
+
+Large Dataset: if the dataset is larger or contains comparatively more observations then implement algorithms with Low Bias/ High Variance.  
+For example, KNN, Decision trees, Random Forest or kernel SVM. 
